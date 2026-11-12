@@ -1,0 +1,25 @@
+# Python environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and API keys
+.env
+.env.*
+
+# Database files
+*.db
+*.sqlite3
+
+# Frontend dependencies
+node_modules/
+
+# Build files
+dist/
+build/
+
+# IDE files
+.vscode/
